@@ -1,0 +1,9 @@
+The dataset that contains the embeddings and cosine similarity score is too large to upload via github. 
+There are two options :
+Option 1 ) Use google drive link :
+The first option is to download the dataset I have hosted at the following google drive link https://drive.google.com/drive/folders/1VMuyvUBUWUK62M4xqKJNQRPb_QdA8C7K?usp=sharing 
+
+Option 2 ) Generate the embedding dataset
+To generate the respective dataset for Experiment 1 or Experiment 2, run the code in the generate embedding section of either notebook 01_Experiment_1.ipynb or notebook 02_Experiment_2.ipynb, and this will generate the dataset in the data/ folder.
+
+
